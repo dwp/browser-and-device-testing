@@ -71,13 +71,19 @@ Android upgrades generally has a lower up-take on devices so a broader range of 
 ##Assistive Technologies
 
 **Screen readers**
+
 JAWS (for Windows)
+
 NVDA (for Windows)
 
-**Screen magnifiers
+**Screen magnifiers**
+
 ZoomText
+
 SuperNova (for Windows, includes screen-reading capabilities)
 
 **Keyboard-only navigation**
+
 Dragon (for Windows)
+
 VoiceOver (for Mac)
