@@ -76,13 +76,15 @@ JAWS (for Windows)
 
 NVDA (for Windows)
 
+VoiceOver (for Mac)
+
 **Screen magnifiers**
 
 ZoomText
 
 SuperNova (for Windows, includes screen-reading capabilities)
 
-**Keyboard-only navigation**
+**Voice-activated navigation**
 
 Dragon (for Windows)
 
