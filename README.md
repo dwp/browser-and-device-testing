@@ -7,17 +7,17 @@ Service Manual - [Browsers and Devices](https://www.gov.uk/service-manual/user-c
 All support is compliant unless tagged with \*
 
 	Operating system					Browser
-	Windows 7									IE7*
-														IE8
-														IE9
-														IE10
-														IE11
-														Chrome
-														Firefox
+	Windows 7								IE7*
+												IE8
+												IE9
+												IE10
+												IE11
+												Chrome
+												Firefox
 
-	MacOs 10.9.5 (Mavericks)	Safari
+	MacOs 10.9.5 (Mavericks)		Safari
 				10.10 (Yosemite)		Chrome
-														Firefox
+												Firefox
 
 All browsers latest version unless started
 
